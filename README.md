@@ -4,7 +4,7 @@ I am a developer and student from United States, Michigan. I've been programming
 
 ---
 
-# Goals, skills, amibitions
+# Goals, skills, ambitions
 Skills
 - Python
 - JavaScript
