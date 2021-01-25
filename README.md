@@ -43,4 +43,5 @@ Goals
 ---
 
 # Extra info
-I typically make my repos with the GNU Public License v3 and projects that I deem worthy and non-confidential will most likely get released.
+- I typically make my repos with the GNU Public License v3 and projects that I deem worthy and non-confidential will most likely get released.
+- Purple is a signiture color of mine. (#cca6ff)
